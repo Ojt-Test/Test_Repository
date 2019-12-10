@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>부들부들 깃허브</title>
+<title>짜증짜증 깃허브</title>
 </head>
 <body>
-	헬로우하다 이말이야
+	수정하는거 테스트 할테야
 </body>
 </html>
